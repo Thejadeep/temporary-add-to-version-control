@@ -1,0 +1,51 @@
+[0m[0K]0;:/c/Users/thejdeep/Desktop/temporary add to version control[?25l
+[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to version control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[1A[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to version control[0;36m (maste[0Kr
+[0m$[0K[3G[?25h[?25l[1A[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to ver[0Ks
+[0m[0K[?25h$[0K[3G[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/thejdee[0Kp[?25l
+/Desktop/temporary add to version control/.git/[0K
+[0K[?25h[?25l
+[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to ver[0Ks
+ion control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[?25l
+[0K[?25hNothing specified, nothing added.[0K[?25l
+[0;33mhint: Maybe you wanted to say 'git add .'?[0m[0K
+[0;33mhint: Turn this message off by running[0m[0K
+[0;33mhint: "git config advice.addEmptyPathspec false"[0m[0K
+[0K[?25h[?25l
+[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to ver[0Ks
+ion control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K.[0K[?25l$ git add[0K[?25h[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/[0K6[?25l
+A410B5C/pcs/files-pane.pper.[0K
+The file will have its original line endings in your[0K
+working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/[0K6[?25l
+A410B5C/pcs/source-pane.pper.[0K
+The file will have its original line endings in your[0K
+working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/[0K6[?25l
+A410B5C/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your[0K
+working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/[0K6[?25l
+A410B5C/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your[0K
+working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/[0K6[?25l
+A410B5C/rmd-outputs.[0K
+The file will have its original line endings in your[0K
+working directory[0K
+[0K[?25h[?25l
+[0;32mthejdeep@thejdeep-PC [0m[0K[?25h[0;35m [0;33m~/Desktop/temporary add to ver[0Ks[?25l
+ion control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K.[0K[?25l
+[0K[?25hgit: 'add.' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        add[0K
+[0K[?25h[?25l
+[0;32mthejdeep@thejdeep-PC [0;35m [0;33m~/Desktop/temporary add to ver[0Ks
+ion control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h
